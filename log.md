@@ -17,3 +17,12 @@
 
 **Link(s) to work**:
 2. [Calling a global map to get a key's value from main (line 75)](https://github.com/goodlandsecurity/go_scan/commit/4f659d3da13952fbcb084987b863621a45c2dcff)
+
+### Day 3: December 29, 2019 
+
+**Today's Progress**: Today I learned about DNS clients, processing answers from a MSG struct and retrieving/querying A and CNAME records. 
+
+**Thoughts**: I am really enjoying Golang!
+
+**Link(s) to work**:
+3. [subfinder - enumerating subdomains!](https://github.com/goodlandsecurity/subfinder)
