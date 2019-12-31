@@ -35,3 +35,12 @@
 
 **Link(s) to work**:
 4. (nothing complete enough to add to github yet!) 
+
+### Day 5: December 30, 2019
+
+**Today's Progress**: Continuing to learn more about SMB with Golang. Dug into NTLMSSP specification and how NTOWFv2 and ComputeResponse are use to learn about passing the hash. Also, how password-based authentication computes the hash before generating an authentication message, whereas hash-based authentication skips that step and uses the hash directly as input to generate an authentication message. 
+
+**Thoughts**: I could really spend more time with SMB, but for now I am happy. I have a working NTLM password cracker!
+
+**Link(s) to work**:
+5. [ntlm_crack - recovering passwords by cracking a supplied NTLM hash!](https://github.com/goodlandsecurity/ntlm_crack)
