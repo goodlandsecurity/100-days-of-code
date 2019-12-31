@@ -26,3 +26,12 @@
 
 **Link(s) to work**:
 3. [subfinder - enumerating subdomains!](https://github.com/goodlandsecurity/subfinder)
+
+### Day 4: December 30, 2019
+
+**Today's Progress**: The step from DNS to SMB is intense. Learning about using mixed encoding of struct fields, forcing ASN.1 encoding and understanding metadata and referential fields.
+
+**Thoughts**: This got complicated really fast. I will definitely need to spend more time on this! 
+
+**Link(s) to work**:
+4. (nothing complete enough to add to github yet!) 
