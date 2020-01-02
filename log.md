@@ -36,7 +36,7 @@
 **Link(s) to work**:
 4. (nothing complete enough to add to github yet!) 
 
-### Day 5: December 30, 2019
+### Day 5: December 31, 2019
 
 **Today's Progress**: Continuing to learn more about SMB with Golang. Dug into NTLMSSP specification and how NTOWFv2 and ComputeResponse are use to learn about passing the hash. Also, how password-based authentication computes the hash before generating an authentication message, whereas hash-based authentication skips that step and uses the hash directly as input to generate an authentication message. 
 
@@ -44,3 +44,12 @@
 
 **Link(s) to work**:
 5. [ntlm_crack - recovering passwords by cracking a supplied NTLM hash!](https://github.com/goodlandsecurity/ntlm_crack)
+
+### Day 6: January 2, 2020
+
+**Today's Progress**: Started working with connecting to MongoDB, MYSQL/Postgres and MSSQL databases using Golang. 
+
+**Thoughts**: Was interested to learn about MongoDB/NoSQL and how you can insert raw json as a database table. 
+
+**Link(s) to work**:
+6. (nothing complete enough to add to github yet!)
