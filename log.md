@@ -53,3 +53,12 @@
 
 **Link(s) to work**:
 6. (nothing complete enough to add to github yet!)
+
+### Day 7: January 4, 2020
+
+**Today's Progress**: Sniffing packets and listening on the wire with Golang.
+
+**Thoughts**: Going to build a tcp-syn scan option into my go_scan tool! 
+
+**Link(s) to work**:
+7. (nothing complete enough to add to github yet!)
