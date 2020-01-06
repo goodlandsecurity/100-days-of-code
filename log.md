@@ -62,3 +62,12 @@
 
 **Link(s) to work**:
 7. (nothing complete enough to add to github yet!)
+
+### Day 8: January 6, 2020
+
+**Today's Progress**: I went back to my tcp scanner and added better formatting for scan results using text/tabwriter package and an error message in red text using color.v1 package if no open ports are found.
+
+**Thoughts**: So many ideas so little time! I am very excited with how far along this project has come!
+
+**Link(s) to work**:
+8. [go_scan tcp scanner](https://github.com/goodlandsecurity/go_scan)
