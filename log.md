@@ -71,3 +71,12 @@
 
 **Link(s) to work**:
 8. [go_scan tcp scanner](https://github.com/goodlandsecurity/go_scan)
+
+### Day 9: January 8, 2020
+
+**Today's Progress**: Going back to SQL, and building out an MS-SQL database mapper to connect to the database, loop through each database and list the tables.
+
+**Thoughts**: This is one of my more favorite projects so far!
+
+**Link(s) to work**:
+9. (nothing complete enough to add to github yet!)
