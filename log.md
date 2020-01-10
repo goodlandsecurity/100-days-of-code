@@ -80,3 +80,12 @@
 
 **Link(s) to work**:
 9. (nothing complete enough to add to github yet!)
+
+### Day 10: January 9, 2020
+
+**Today's Progress**: Still working with MS-SQL. Tomorrow I will be releasing my MS-SQL database mapper/miner!
+
+**Thoughts**: I want to add functionality for MongoDB and MySQL next!
+
+**Link(s) to work**:
+10. (nothing complete enough to add to github yet!)
