@@ -89,3 +89,12 @@
 
 **Link(s) to work**:
 10. (nothing complete enough to add to github yet!)
+
+### Day 11: January 10, 2020
+
+**Today's Progress**: I finished the MS-SQL database miner! Authenticate to the database and watch as everything is mined and mapped in a visually pleasing way! 
+
+**Thoughts**: I already have ideas on how I want to expand on this project! 
+
+**Link(s) to work**:
+11. [go_miner SQL database miner](https://github.com/goodlandsecurity/go_miner)
