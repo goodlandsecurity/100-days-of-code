@@ -98,3 +98,30 @@
 
 **Link(s) to work**:
 11. [go_miner SQL database miner](https://github.com/goodlandsecurity/go_miner)
+
+### Day 12: January 11, 2020
+
+**Today's Progress**: Working on incorporating MySQL into my db miner tool.
+
+**Thoughts**: Hoping to wrap it up tomorrow!
+
+**Link(s) to work**:
+12. (nothing complete enough to add to github yet!)
+
+### Day 13: January 12, 2020
+
+**Today's Progress**: MySQL addition to the db miner is still in progress.
+
+**Thoughts**: Trying to develop the db miner project as a framework so I can use different plugins for different databases.
+
+**Link(s) to work**:
+13. (nothing complete enough to add to github yet!)
+
+### Day 14: January 13, 2020
+
+**Today's Progress**: Switched back to an older Python project of mine. I updated my custom MISP integration that queries Proofpoint TAP api and creates MISP events for each alert.
+
+**Thoughts**: I forked PyMISP, and am anxiously awaiting (hopeful) approval for my pull request. This would be my first contribution to an open source project!
+
+**Links(s) to work**:
+14. [proofpoint_tap.py to MISP](https://github.com/goodlandsecurity/PyMISP/blob/proofpoint-tap-integration/examples/proofpoint_tap.py)
